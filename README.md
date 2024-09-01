@@ -1,2 +1,2 @@
-# React Tasks Tabs
+# React Tabs
  React 18, loader, routing, actions
